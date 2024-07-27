@@ -4,7 +4,7 @@ from tkinter import ttk
 # If you're including the market graph directly in main.py, this import is not needed.
 # from market_graph import create_market_graph
 
-# Assuming the create_market_graph function is defined within this file for simplicity
+
 import matplotlib
 matplotlib.use("TkAgg")
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
